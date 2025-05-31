@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "CTFPro_rebal"
+        addonversion "3.0"
+        addonDescription "Flag return disabled || Extra time to evac || Get rid of Dropship destroy abuse -- almost impossible to break now || Players have 1 grenade instead of two || Round won't end if you pull the flag || Flag reverted on some maps to make them more playable || Excluded some ugly maps || If no flag is pulled, defenders will win /// KNOWN IMPACTS --> For dedicated server hosts: this gets rid of several maps for normal CTF too! CTF Playlist also has titans disabled by default (you can still enable it on private match settings anyways)"
+}
