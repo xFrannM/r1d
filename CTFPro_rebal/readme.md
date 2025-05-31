@@ -1,8 +1,18 @@
 # CTFPro Rebalance Addon
 
+You can launch this gamemode through Console only (set the keybind on in-game keyboard settings if not assigned yet)
+
+There are two ways to launch:
+ON RECOMMENDED MAPS: launchplaylist ctf; mp_gamemode ctfp
+ON YOUR DESIRED MAP: launchplaylist ctf; mp_gamemode ctfp; map mp_MAP
+(being mp_MAP the map you want to play)
+you can see all the maps if you write in console "map mp" and take a look at the autocomplete (you can move through the options with arrow keys)
+
 ## Description
 
 This addon aims to balance Capture the Flag PRO cut gamemode, to make it less defender-sided and fix a few issues & bugs:
+
+# 
 
 More chances to evac!
 - **Flag return disabled** // it was pretty easy to return and pretty hard to comeback from attacker's perspective
@@ -21,7 +31,7 @@ Some logic changes!
 
 Some map changes!
 - **Flag positions reverted on some maps for better gameplay** // some evacs were ugly the other way
-- **Some less enjoyable maps have been excluded** // maps that do not have cool evac points
+- **Some less enjoyable maps have been excluded** // maps that do not have cool evac points -- this feature is for dedicated servers only
 
 ---
 
