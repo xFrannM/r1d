@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "scavenger_rebal"
+        addonversion "1.0"
+        addonDescription "Few changes to balance Scavenger! More info on README.MD"
+}
