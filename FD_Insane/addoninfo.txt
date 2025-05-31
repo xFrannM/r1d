@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "FD_Insane"
+        addonversion "3.0"
+        addonDescription "Frontier Defense INSANE -- more info on README.MD"
+}
