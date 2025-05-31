@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "cutmodes_rebal_byFrann"
+        addonversion "5.0"
+        addonDescription "Implements changes on CTF Pro, Scavenger and Titan Tag -- more info on README.MD"
+}
