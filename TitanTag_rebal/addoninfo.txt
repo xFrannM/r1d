@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "TT_Scorefix"
+        addonversion "1.0"
+        addonDescription "Few changes to balance Titan Tag! More info on README.MD"
+}
