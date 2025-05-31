@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "FD_BackwaterSurvival"
+        addonversion "2.0"
+        addonDescription "Frontier Defense on Backwater turns into survival mode"
+}
