@@ -1,2 +1,1 @@
-# r1d
-Repo for addons
+# Click on an addon folder to get more information!
